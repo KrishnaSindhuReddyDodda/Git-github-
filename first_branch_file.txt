@@ -1,0 +1,1 @@
+This is a sample branch. where after we can switch from master branch to branch1 branch.

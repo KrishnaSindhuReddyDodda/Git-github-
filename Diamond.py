@@ -1,7 +1,6 @@
 rows = int(input("Enter The Number Of Rows: "))
-# code for upper part of traingle
 columns = 2*rows -1
-i = 0
+i = 0                                                       # code for upper part of traingle
 while i < rows:
     j = 0
     while j < columns :
@@ -14,7 +13,7 @@ while i < rows:
     print(" ")
     i+=1
     
-# code for lower part of triangle
+                                                           # code for lower part of triangle
 
 i = 0
 while i < rows:

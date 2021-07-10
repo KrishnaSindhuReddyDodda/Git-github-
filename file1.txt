@@ -1,0 +1,1 @@
+This is a created sample test file. It's not in local repository initially.
